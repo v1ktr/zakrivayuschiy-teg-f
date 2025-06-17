@@ -222,7 +222,7 @@ li:nth-of-type(8) .card__image-container::after {
 }
 
 .like-icon .core {
-  fill: none;
+  fill: transparent;
   transition: fill 0.3s linear 0.03s;
 }
 
@@ -237,7 +237,7 @@ li:nth-of-type(8) .card__image-container::after {
 }
 
 .like-icon .main-body {
-  fill: none;
+  fill: transparent;
   transition: fill 0.3s linear;
 }
 
