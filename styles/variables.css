@@ -2,7 +2,7 @@
 
 :root {
   --font-main: 'Inter-Variable';
-  --font-accent: 'PressStart2P-Regular';
+  --font-accent: 'PressStart2P';
   --wdth-mobile: 100%;
   --wdth-desktop: clamp(23.438rem, 30.516vw + 16.285rem, 43.75rem);
   --wght: 400;
